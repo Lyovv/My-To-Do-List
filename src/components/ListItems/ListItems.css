@@ -1,0 +1,26 @@
+.todo-list:not(odd){
+    display: block;
+    margin-top: 7px;
+}
+.todo-list span{
+    width:370px;
+    height: 30px;
+    border: 1px solid rgb(76, 152, 238);
+    border-radius:10px;
+    float: left;
+    padding-left:10px;
+    cursor: pointer;
+}
+.todo-list span:hover{
+    background:rgb(76, 152, 238);
+    color: white
+}
+
+.list{
+    width:75px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+}

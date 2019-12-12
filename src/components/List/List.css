@@ -1,0 +1,10 @@
+#todo{
+    padding-top:20px ;
+    width: 600px;
+    height:150px;
+    background:rgb(236, 230, 230);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
